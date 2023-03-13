@@ -1,40 +1,40 @@
 .form {
-    min-width: 300px;
     display: grid;
     grid-template-columns: 1fr auto;
     grid-gap: 20px;
-    padding: 20px;
-    margin: 10px;
-}
+  }
 
-@media (max-width: 767px) {
+  @media (max-width: 767px) {
     .form {
-        grid-template-columns: 1fr;
+      grid-template-columns: 1fr;
+      display: flex;
+      flex-wrap: wrap;
     }
-}
+  }
 
-.form__input {
-    border: 2px solid #eee;
-    padding: 5px;
-    overflow: auto;
-}
+  .form__newTask {
+    border: 2px solid #ddd;
+    padding: 10px;
+    width: 100%;
+  }
 
-.form__button {
-    background-color: teal;
+  .form__button {
+    padding: 10px;
+    background: teal;
     color: white;
-    padding: 5px;
-    border: 1px solid white; 
-    transform: scale(1);
-    transition: transform 0.2s ease-in-out;
-}
-
-.form__button:hover {
+    border: none;
     cursor: pointer;
-    transform: scale(1.2);
-    background-color: hsl(180, 100%, 35%);
-}
+    transition: 1s;
+  }
 
-.form__button:active {
-    background-color: rgb(1, 168, 168);
-    border: 1px solid black;
-}
+  .form__button:hover {
+    background: hsl(180, 100%, 35%);
+    transform: scale(1.2);
+    ;
+  }
+
+  @media (max-width: 767px) {
+    .form__button {
+      width: 100%;
+    }
+  }
