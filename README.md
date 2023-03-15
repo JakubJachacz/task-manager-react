@@ -1,8 +1,25 @@
-# Link
+# Welcome to the Task Manager app!
+
+This app is designed to help you manage your tasks efficiently and effectively. With this app, you can create new tasks, mark them as complete and delete them when you're finished.
+
+## Demo
+![Task Manager](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUzODMzOWE4ZTg0NDAzYjk0ZDFkYTIxNGQ0MTM5ZDdjNjVhZWQ3MiZjdD1n/0TzkccHFBFTepJm4vB/giphy.gif)
+
+### Link
 
 https://jakubjachacz.github.io/todo-list-react/
 
-## Available Scripts
+### Used technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Normalize.css
+- BEM
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -38,33 +55,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
