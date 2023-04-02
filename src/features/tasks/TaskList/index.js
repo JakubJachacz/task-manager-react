@@ -1,9 +1,9 @@
 import { List, Item, Content, Button } from "./styled";
 import { useSelector, useDispatch } from "react-redux";
-import { selectHideDone, selectTasks, toggleTaskDone } from "../tasksSlice";
+import { selectHideDone, selectTasks, toggleTaskDone, removeTask } from "../tasksSlice";
 
 
-const TaskList = ({ removeTask }) => {
+const TaskList = () => {
   const tasks = useSelector(selectTasks);
   const hideDone = useSelector(selectHideDone);
 
