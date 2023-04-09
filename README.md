@@ -3,7 +3,7 @@
 This app is designed to help you manage your tasks efficiently and effectively. With this app, you can create new tasks, mark them as complete and delete them when you're finished.
 
 ## Demo
-![Task Manager](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUzODMzOWE4ZTg0NDAzYjk0ZDFkYTIxNGQ0MTM5ZDdjNjVhZWQ3MiZjdD1n/0TzkccHFBFTepJm4vB/giphy.gif)
+![Task Manager](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJkNDMzOWY1N2EyOThiNmNiYTg3YzY3MmE4ZWEzNTAyZTA5MDQ3NCZjdD1n/6cDAn4VMNaoMs25XnI/giphy.gif)
 
 ### Link
 
