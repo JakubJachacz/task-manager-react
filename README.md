@@ -13,11 +13,20 @@ https://jakubjachacz.github.io/todo-list-react/
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript ES6
 - React
 - Node.js
 - Normalize.css
 - BEM
+- Git
+- Flex
+- Media Queries
+- Grid
+- Markdown
+- Create React App
+- React-Redux
+- React-Router
+- Local Storage
 
 ### Available Scripts
 
